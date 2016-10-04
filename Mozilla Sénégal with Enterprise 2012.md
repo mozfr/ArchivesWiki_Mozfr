@@ -1,0 +1,3 @@
+https://reps.mozilla.org/e/mozilla-senegal-with-enterprise/
+
+Afin de promouvoir la technologie du Web ouvert et produits Mozilla comme Firefox OS, Firefox ESR et Thunderbird ESR, Mozilla Sénégal en collaboration avec Jokkolabs un espace de coworking à Dakar organise un meetup avec des Jokkoworkers et des startups. L'objectif de l'évènement est d'intéresser les jeunes entrepreneurs sénégalais aux produits Mozilla pour les entreprises ainsi qu'aux technologies et aux projets de Mozilla.
